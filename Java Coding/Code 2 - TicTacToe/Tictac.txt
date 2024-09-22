@@ -1,0 +1,5 @@
+This Java program implements a simple Tic-Tac-Toe game where a
+ human player competes against an AI using the minimax algorithm 
+ with alpha-beta pruning. The game board is represented by a 1D array
+  of characters, where each cell can be filled with 'X' (human player),
+   'O' (AI), or '-' (empty).

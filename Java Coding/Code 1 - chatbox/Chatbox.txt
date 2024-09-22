@@ -1,0 +1,4 @@
+This simple chatbot program is designed to handle basic user interactions
+ by providing predefined responses to a variety of common queries. 
+ It's a great starting point for understanding how chatbots can be 
+ implemented using basic string matching and conditional logic in Java.

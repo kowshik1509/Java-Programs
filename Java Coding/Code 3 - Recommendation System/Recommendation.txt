@@ -1,0 +1,7 @@
+The provided code is a simple yet effective movie recommendation
+ system that suggests up to five movies based on the user's preferred 
+ genre—either "Sci-Fi" or "Action." The program works by first filtering 
+ movies from a predefined list that match the user's input genre. 
+ If there are fewer than five recommendations available in the selected
+  genre, the system supplements the list with movies from an alternative
+   genre to ensure that the user receives a full set of recommendations.
